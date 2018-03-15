@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\obj\Debug\12. NullValuesArithmetic.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\02. Primitive-Data-Types-Variables-Homework\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.pdb

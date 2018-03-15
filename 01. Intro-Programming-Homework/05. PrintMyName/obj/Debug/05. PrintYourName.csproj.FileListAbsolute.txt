@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\bin\Debug\_05.PrintMyName.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\obj\Debug\05. PrintYourName.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\05. PrintMyName\obj\Debug\_05.PrintMyName.pdb

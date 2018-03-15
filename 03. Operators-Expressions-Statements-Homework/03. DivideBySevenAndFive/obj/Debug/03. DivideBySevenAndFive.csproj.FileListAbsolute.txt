@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\bin\Debug\_03.DivideBySevenAndFive.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\obj\Debug\03. DivideBySevenAndFive.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\obj\Debug\_03.DivideBySevenAndFive.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\03. DivideBySevenAndFive\obj\Debug\_03.DivideBySevenAndFive.pdb

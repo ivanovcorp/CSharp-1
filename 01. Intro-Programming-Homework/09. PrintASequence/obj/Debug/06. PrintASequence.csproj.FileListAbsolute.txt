@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\bin\Debug\_09.PrintASequence.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\obj\Debug\06. PrintASequence.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\09. PrintASequence\obj\Debug\_09.PrintASequence.pdb

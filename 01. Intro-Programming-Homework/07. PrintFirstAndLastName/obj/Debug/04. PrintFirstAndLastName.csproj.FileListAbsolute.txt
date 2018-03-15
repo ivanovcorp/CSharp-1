@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\bin\Debug\_07.PrintFirstAndLastName.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\04. PrintFirstAndLastName.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\01. Intro-Programming-Homework\07. PrintFirstAndLastName\obj\Debug\_07.PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb

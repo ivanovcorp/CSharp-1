@@ -1,0 +1,6 @@
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.exe.config
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.pdb
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\obj\Debug\05. ThirdDigitIsSeven.csproj.CoreCompileInputs.cache
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.exe
+C:\data\Programming\repos\Telerik-Software-Academy-master\Modul I\01. C# - Part I\03. Operators-Expressions-Statements-Homework\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.pdb
